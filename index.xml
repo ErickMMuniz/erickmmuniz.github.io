@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Erick</title>
+    <link>http://erickmmuniz.github.io/</link>
+    <description>Recent content on Erick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Erick Muñiz Morales 2022</copyright><atom:link href="http://erickmmuniz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mi</title>
+      <link>http://erickmmuniz.github.io/about/</link>
+      <pubDate>Thu, 26 May 2022 17:32:14 -0500</pubDate>
+      
+      <guid>http://erickmmuniz.github.io/about/</guid>
+      <description>Me gustas tú</description>
+    </item>
+    
+  </channel>
+</rss>
