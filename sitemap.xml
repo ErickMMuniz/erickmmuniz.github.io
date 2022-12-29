@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://erickmmuniz.github.io/about/</loc>
-    <lastmod>2022-05-26T17:32:14-05:00</lastmod>
-  </url><url>
-    <loc>http://erickmmuniz.github.io/categories/</loc>
+    <loc>http://erickmmuniz.github.io/notas/2022/</loc>
+    <lastmod>2022-12-29T02:21:16-06:00</lastmod>
   </url><url>
     <loc>http://erickmmuniz.github.io/</loc>
+    <lastmod>2022-12-29T02:21:16-06:00</lastmod>
+  </url><url>
+    <loc>http://erickmmuniz.github.io/notas/</loc>
+    <lastmod>2022-12-29T02:21:16-06:00</lastmod>
+  </url><url>
+    <loc>http://erickmmuniz.github.io/categories/</loc>
   </url><url>
     <loc>http://erickmmuniz.github.io/tags/</loc>
   </url>
